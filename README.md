@@ -16,3 +16,5 @@ esspecially use sniper in combination with crouching and going to higher ground 
 
 
 Cosmetic weapon inspection
+
+Add back better crosshair
